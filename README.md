@@ -1,0 +1,2 @@
+# CoreDataDemo
+Demo for students
